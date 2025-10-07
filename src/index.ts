@@ -18,6 +18,8 @@ const users: User[] = [
   {
     name: "John",
     email: "john@email.com",
+    nickname: "Jo",
+    age: 10,
   },
   {
     name: "Riy",
